@@ -1,4 +1,4 @@
-The **Medikit** is a consumable that heals 100 health and was added in the v0.4.0 "Supplies received" update on June 17th, 2023. They spawn rarely around the map. To use a Medikit, either click on the icon in your inventory or press 6 on your keyboard. A Medikit takes 6 seconds to use.
+The **Medikit** is a consumable that heals 100 health and was added in the v0.4.0 "Supplies received" update on June 17th, 2023. They spawn rarely around the map. To use a Medikit, either click on the icon in your inventory or press 8 on your keyboard. A Medikit takes 6 seconds to use.
 
 # Background
 
@@ -19,7 +19,7 @@ Medical kits, also known as first aid kits, contain a variety of different suppl
 
 ## Countering
 
-- If you see a player out in the open using healing particles, you should attack them. There's a good chance that they are low on health and will make for an easy kill.
+- If you see a player out in the open using healing particles, you should attack them. There's a high chance that they are low on health and will make for an easy kill.
   - Watch out though, as some players will "bait" and pretend to heal when they actually have high health.
 - If you're in a fight and you think your opponent is low enough that they are trying to use a Medikit, keep being aggressive and attack them. Don't give them the chance to use a Medikit.
 
