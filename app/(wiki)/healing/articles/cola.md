@@ -1,4 +1,4 @@
-**Cola** is a consumable that restores 25 adrenaline, added in the v0.4.0 "Supplies received" update on June 17th, 2023. They spawn uncommonly around the map. To use Cola, either click on the icon in your inventory or press 7 on your keyboard. Cola takes 3 seconds to use.
+**Cola** is a consumable that restores 25 adrenaline, added in the v0.4.0 "Supplies received" update on June 17th, 2023. They spawn uncommonly around the map. To use Cola, either click on the icon in your inventory or press 9 on your keyboard. Cola takes 3 seconds to use.
 
 # Background
 
@@ -12,7 +12,7 @@ Cola is a type of carbonated drink typically flavored with citrus oils, vanilla,
 - The health regeneration, however, is not linear. Make sure to keep your adrenaline above 50 to take advantage of it.
 - You might be able to "bait" your opponent into attacking by pretending to use a Cola, even though you don't need it.
 - Make sure you are in a safe and/or easily defensible location when using Cola, as the slowdown makes you vulnerable.
-  - If someone starts attacking you, cancel the Cola and start fighting the (default keybind is X).
+  - If someone starts attacking you, cancel the Cola and start fighting them (default keybind is X).
 - If you only have 1 or 2 Colas, it may be worth saving them until you can find another Cola or a Tablet, as then you can get the full health boost.
 - Colas are better used to "top off" your adrenaline bar, whereas Tablets are more efficient at actually filling up the bar.
 
@@ -27,7 +27,7 @@ Cola is most readily obtained by breaking toilets in buildings, as well as the P
 
 # Trivia
 
-- The caffeine in Colas may help the Surian run faster and regenerate health
+- The caffeine in Colas may help the Surian run faster and regenerate health.
 
 # History
 
