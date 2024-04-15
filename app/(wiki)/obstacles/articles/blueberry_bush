@@ -1,0 +1,43 @@
+The **Blueberry Bush** is an opaque [Obstacle](/obstacles) that spawns frequently around the map. It was added to the game in the v0.8.0 "Untrodden Land" update on July 7th, 2023. They can be moved through and contains loot underneath.
+
+# Location & Spawning
+
+Blueberry Bushes can be randomly spawned around the map, with no specific locations.
+
+- 30 Blueberry Bushes spawn per map
+
+# Loot & More
+
+The Blueberry Bush has decent [loot](/loot#blueberry_bush). It spawns with [Scopes](/loot#scopes), [Armor](equipment/armor), or [Backpacks](equipment/backpacks).
+
+# Tips
+
+- If you're low on health and have nowhere else to go, you can try hiding in a Blueberry Bush to heal.
+- You can hide in a Bush with a shotgun or SMG and ambush other players as they pass.
+- Look out for telltale healing particles in a Blueberry Bush, because it means another player is hiding.
+  - Usually, players who are healing in a Blueberry Bush are low on health, so this can be an easy kill.
+  - Some newer players may not fully hide themselves in Blueberry Bushes, and become easy targets.
+- If you aren't sure where players are during the final stages of the zone, they could be hiding in Blueberry Bushes. Shoot at a couple and see if a player comes out.
+- Always try and pick up the loot in Blueberry Bushes, as they can have rare loot occasionally and are a good source of Healing Items.
+
+# Trivia
+
+- When Blueberry Bushes were first added, a layering bug caused players to appear on top of bushes on other players' screens
+
+# History
+
+- v0.12.0
+  - Added a reskinned version of Blueberry Bush for Halloween Map (red berries)
+- v0.8.0
+  - Added Blueberry Bush
+
+<Gallery
+  images={[
+    {
+      url: "/img/articles/obstacles/bush/bugged_blueberry_bush_v0.8.0.png",
+      author: "Katloo",
+      caption: 
+        "A fellow Surian trying to hide in a bugged Blueberry Bush in v0.8.0",
+    },
+  ]}
+/>
