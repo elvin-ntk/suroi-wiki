@@ -47,6 +47,7 @@ const WIKI_CONTRIB: string[] = [
   "Emeraldneo",
   "HeheBoi420",
   "Hugh Jass",
+  "[SILLY]SuroiBot",
 ];
 
 const GAME_TEAM: User[] = [
